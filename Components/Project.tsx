@@ -236,7 +236,7 @@ const Project = () => {
                             <Link href="https://github.com/NannKhaingShweYeeLin/ABC-Learning-Center"><p>Github Link </p></Link>
                         </button>
                         <button className='flex items-center space-x-2 px-[2rem] hover:bg-yellow-400 transition-all duration-200 py-[1rem] text-[18px] font-bold uppercase bg-[#55e6a5] text-black'>
-                            <Link href="https://abc-eight-peach.vercel.app/"><p>Demo </p></Link>
+                            <Link href="https://abc-learning-centre.vercel.app/"><p>Demo </p></Link>
                         </button>
 
                     </div>

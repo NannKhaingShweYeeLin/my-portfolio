@@ -247,7 +247,7 @@ const Project = () => {
                     className="lg:w-[500px] mx-auto md:mx-0 mt-[2rem] lg:mt-0 lg:h-[500px] w-[300px] h-[300px] relative"
                 >
                     <Image
-                        src="/images/11.PNG"
+                        src="/images/abc.JPG"
                         alt="user"
                         fill
                         className="relative z-[11] w-[100%] h-[100%]

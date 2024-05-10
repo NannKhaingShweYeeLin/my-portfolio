@@ -18,7 +18,7 @@ const About = () => {
             <span className="w-[100px] hidden md:block h-[5px] bg-slate-400 rounded-sm"></span>
             <p className="text-[19px] text-slate-300 w-[80%]">
               {" "}
-              I specialize in crafting attractive, functional websites using HTML, CSS, and JavaScript. With a background in web development since 2021,
+              I specialize in crafting attractive, functional websites using programming languages. With a background in web development since 2021,
                I focus on creating seamless user experiences across all devices and continuously updating my skills to stay ahead in the field.
             </p>
           </div>
